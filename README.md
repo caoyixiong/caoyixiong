@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cao Yixiong</h1>
+<h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
 - 🔭 I’m currently working on [My Blog](https://caoyixiong.com)
