@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h1 align="center">Hi 👋, I'm CaoYixiong</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
 - 🔭 I’m currently working on [My Blog](https://caoyixiong.com)
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **php, python, golang**
 
-- 📫 How to reach me **ikoobee@outlook.com**
+- 📫 How to reach me **409677557@qq.com**
 
 - ⚡ Fun fact **I think i am funny**
 
